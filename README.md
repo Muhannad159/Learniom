@@ -6,7 +6,7 @@ where the Admin can:
 - Search -> through all Student, Professor, courses
 - Filter displayed data in Student, Professor, courses <br />
 ## Designing Stage
-before start codind our programm we design different **UML DIAGRAMS** to help visualizing work flow of the programm and the neccessary classes, so we have implemented:
+Before start codind our programm we design different **UML DIAGRAMS** to help visualizing work flow of the programm and the neccessary classes, so we have implemented:
 - Use Case Diagram
 - Sequence Diagram
 - Class Diagram
@@ -15,18 +15,16 @@ here on of UMls diagram, Sequence Diagram that shows flow of the program
 ![Use case diagram copy (1)](https://user-images.githubusercontent.com/117366528/210100749-cdbd7117-2cde-4955-8fe7-237ae69362d5.png)
 
 ## Technology
-we implement this project using **c++** programming language and **QT framework** to design responisve UI <br/>
-the reason we choose this language is its speed compilation process comparing to other programming languages like python or java, as we need out porject to efficient 
-when dealing with big data.<br/>
-imagin the Admin want to search through all students data which store data of every single student in the whole university, the process need
-to be fast. 
+We implemented this project using **c++** programming language and **QT framework** to design responisve UI. <br/>
+And we chose this language because of its speed compilation process comparing to other programming languages like python or java, as we needed our porject to deal with the big data in an efficient way. 
+
 ## Work Flow
-Admin need to login firs, then the dashboard appears displaying following info:
+Admin need to login first, then the dashboard appears displaying the following:
 - Admin info
-- manage students option
-- manage proffesors option
-- manage courses option
-- manage admins option<br/>
+- Manage students option
+- Manage proffesors option
+- Manage courses option
+- Manage admins option<br/>
 
 ### login screen
 ![login screen](https://user-images.githubusercontent.com/117366528/210101028-64d21c11-8272-476b-9363-a01dd24760b0.png)
